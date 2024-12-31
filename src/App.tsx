@@ -5,7 +5,7 @@ import { StoreProvider } from './store';
 function App() {
   return (
     <StoreProvider>
-      <div className="text-primary-700">dss</div>
+      <div className="text-primary-700">jjdss</div>
     </StoreProvider>
   );
 }
